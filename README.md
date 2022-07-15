@@ -5,7 +5,7 @@ Prueba: **DESARROLLADOR JR**
 
 Deadline: **1 día**
 
-Nombre: 
+Nombre: Sergio Camacho Sandoval
 
 ------
 ## Clona y crea tu repositorio para la evaluación ##
